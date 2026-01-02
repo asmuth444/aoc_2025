@@ -1,0 +1,5 @@
+logs/
+inputs/
+.vscode/
+go.sum
+main
